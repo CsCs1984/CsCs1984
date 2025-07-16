@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Samah Abuayeid  
 
-<!--
-**CsCs1984/CsCs1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's in Computer Science**  
+💻 **Data Science | Machine Learning | Deep Learning | AI in Healthcare**  
 
-Here are some ideas to get you started:
+I am passionate about **Artificial Intelligence and Data Science** and enjoy working on projects that combine **research, analytics, and real-world applications**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Find me here:**  
+- [LinkedIn](https://www.linkedin.com/in/samah-abuayied)  
+- [Google Scholar](https://scholar.google.com/citations?user=qOAOfegAAAAJ&hl=ar)  
+
+---
+
+## 🔥 What you'll find here  
+✅ AI & ML Projects (Deep Learning, Data Analysis, Predictive Modeling)  
+✅ Research-related implementations  
+✅ Tutorials and experiments with Python  
+
+---
