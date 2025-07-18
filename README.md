@@ -7,7 +7,7 @@ I am passionate about **Artificial Intelligence and Data Science** and enjoy wor
 
 🔗 **Find me here:**  
 - [LinkedIn](https://www.linkedin.com/in/samah-abuayied)  
-- [Google Scholar](https://scholar.google.com/citations?user=qOAOfegAAAAJ&hl=ar)  
+- [My Site]([https://scholar.google.com/citations?user=qOAOfegAAAAJ&hl=ar](https://sites.google.com/view/samah-abuayied-portfolio))  
 
 ---
 
